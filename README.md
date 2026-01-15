@@ -34,9 +34,3 @@ A modern and responsive **Spotify Web UI Clone** built using only **HTML and CSS
 
 ---
 
-## 📸 Preview
-
-> Add your project screenshot here:
-
-```md
-![Project Preview](preview.png)
